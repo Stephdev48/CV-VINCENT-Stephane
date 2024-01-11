@@ -80,7 +80,7 @@
   }
   
   .portrait{
-    border-radius: 35%;
+    border-radius: 35px;
     max-width: 350px;
     margin: auto;
     display: block;
