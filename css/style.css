@@ -37,7 +37,7 @@
   }
   
   .text-blue{
-    color: #000000;
+    color: #c28e00;
   }
   
   .text-darkblue{
@@ -48,6 +48,9 @@
     text-transform: uppercase; 
   }
   
+  a{
+    color: #c28e00;
+  }
   .icon{
     margin-right: .5rem;
   }
