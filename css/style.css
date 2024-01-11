@@ -73,9 +73,9 @@
     color: white;
   }
   
-  .portait{
+  .portrait{
     border-radius: 50%;
-    max-width: 150px;
+    max-width: 350px;
     margin: auto;
     display: block;
     margin-bottom: 50px;
