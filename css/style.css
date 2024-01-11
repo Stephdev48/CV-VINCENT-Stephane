@@ -37,11 +37,11 @@
   }
   
   .text-blue{
-    color: #4472C4;
+    color: #000000;
   }
   
   .text-darkblue{
-    color: #002060;
+    color: #000000;
   }
   
   .text-uppercase{
@@ -72,12 +72,12 @@
   .left-column{
     grid-area: left-column;
     padding: 50px;
-    background-color: #4472C4;
+    background-color: #c28e00;
     color: white;
   }
   
   .portrait{
-    border-radius: 50%;
+    border-radius: 35%;
     max-width: 350px;
     margin: auto;
     display: block;
