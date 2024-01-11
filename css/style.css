@@ -52,6 +52,9 @@
     margin-right: .5rem;
   }
   
+  .linkedin{
+    color: white;
+  }
   .cv-container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
